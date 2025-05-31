@@ -17,3 +17,10 @@ I was reminded of Ether 12:27, which teaches that the Lord gives us weaknesses s
 Elder Bednar once compared spiritual development to intertwined strands in a rope—each one strengthening the whole. I now see my spiritual life and professional life that way. When I lead a team ethically, it’s a spiritual act. When I study cloud architecture with prayer, it becomes consecrated learning. When I help someone solve a tech problem patiently, I am not just doing a job—I am ministering in my own way.
 
 Rather than separating “spiritual” and “career,” I’ve come to believe that one empowers the other. My testimony makes me a more compassionate leader. My temple covenants guide how I approach hard decisions. And my daily effort to be a disciple of Jesus Christ gives me a deeper reason to excel, innovate, and serve in IT.
+
+
+## 🎥 Personal Agency Video Reflection
+
+This week's reflection focuses on Doctrine and Covenants 58:26–28 and how personal agency has shaped my spiritual and professional journey.
+
+[▶️ Watch My Video Reflection] https://youtu.be/-_E9sF8rkR0

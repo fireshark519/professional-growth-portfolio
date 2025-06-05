@@ -9,6 +9,9 @@ Welcome! I'm an IT professional with experience in technical support leadership,
 - [Ethical Dilemma & Alternative Handling](./ethical-dilemma.md)
 - [Spiritual Reflection & Temple/Agency Video](./reflection.md)
 - [Refined MB.IO Project with Ethical Improvements](./project-mbio.md)
+- [Week 5 Reflection – Spiritual Integration & Portfolio Review](./spiritual-review.md)
+- [Week 5 – Usability Testing & Ethical Reflection](./usability-report.md)
+
 
 ---
 

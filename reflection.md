@@ -24,3 +24,8 @@ Rather than separating “spiritual” and “career,” I’ve come to believe 
 This week's reflection focuses on Doctrine and Covenants 58:26–28 and how personal agency has shaped my spiritual and professional journey.
 
 [▶️ Watch My Video Reflection] https://youtu.be/3H3KaFRh8X0
+
+
+## Final Reflection
+
+As I complete this capstone, I recognize how deeply my guiding principles—Gratitude, Integrity, and Service—have shaped my learning, leadership, and spiritual resilience. I see my work not only as technical progress but as a reflection of my discipleship.

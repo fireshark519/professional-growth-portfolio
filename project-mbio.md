@@ -45,3 +45,8 @@ Initially, ethics like data privacy and transparency were considered conceptuall
 This project reinforced the importance of combining **efficiency with ethical responsibility**. It taught me that servant leadership isn’t just about people—it applies to the systems we build. Clear documentation, ethical tool choices, and thoughtful refinement transformed this from a solid internship project into a scalable, integrity-driven framework for ongoing support.
 
 *Included in my IT 497 Capstone Portfolio*
+
+
+## Lessons Learned
+
+This project taught me that servant leadership means more than task completion—it means designing with responsibility, accountability, and ethical clarity. I will carry these principles forward in every technical role I take on.

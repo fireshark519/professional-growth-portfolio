@@ -38,3 +38,19 @@ This approach better aligns with ethical and professional standards because:
 - It **respects the dignity of the contractor** by avoiding accusations while still protecting the organization.
 - It **builds client trust** by showing that strong security measures are enforced even in transitional times.
 - It **prevents recurrence**, turning a reactive process into a disciplined, proactive security culture.
+
+## Spiritual Reflection
+
+This experience reaffirmed my commitment to Integrity and Moral Courage. As a disciple-leader, I see ethics not just as policy compliance, but as stewardship over the systems and data I manage.
+
+
+## Week 5 Reflection: Ethical Foresight in Future Practice
+
+This dilemma has helped me see that ethical leadership in IT is not limited to identifying wrongdoing—it’s about designing systems that reduce the chance for mistakes or exploitation. In future roles, I plan to:
+
+- **Prioritize automation and timing in access control**, ensuring that terminations are always paired with instant revocation of credentials.
+- **Implement early-warning systems** for unusual credential behavior, even before someone is flagged for HR-related concerns.
+- **Encourage policy reviews after every incident**, not to assign blame, but to proactively prevent recurrence.
+- **Normalize ethical conversations** within the IT team to promote accountability and foresight, especially around offboarding, data access, and vendor/client transitions.
+
+This assignment reinforced for me that true disciple-leaders plan with foresight, act with compassion, and protect others—even behind the scenes in system design. Ethical foresight is not just a professional discipline; it's a spiritual one.

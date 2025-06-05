@@ -23,4 +23,4 @@ Rather than separating “spiritual” and “career,” I’ve come to believe 
 
 This week's reflection focuses on Doctrine and Covenants 58:26–28 and how personal agency has shaped my spiritual and professional journey.
 
-[▶️ Watch My Video Reflection] https://youtu.be/-_E9sF8rkR0
+[▶️ Watch My Video Reflection] https://youtu.be/3H3KaFRh8X0

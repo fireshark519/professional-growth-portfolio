@@ -149,3 +149,24 @@ from previous weeks:
 - Personal Insight: Using IT skills for church support and mentoring others
 
 ---
+---
+
+## Week 6 Devotional Insights & Spiritual Growth Plan
+
+**Talk:** Elder Isaac K. Morrison, *Lessons from the Unexpected Path*, Ensign College, 2024  
+[Link](https://www.ensign.edu/devotional/elder-isaac-k-morrison-03-2024)  
+**Summary:** Elder Morrison shares how unexpected changes can become blessings when we act with faith and submit to the Lord’s will.  
+**Reflection:** This talk deepened my trust in divine timing. I reflected on job transitions and setbacks that eventually brought spiritual strength and clarity.
+
+**Talk:** Casey Hurley, *Climbing Your Own Mount Sinai*, Ensign College, 2024  
+[Link](https://www.ensign.edu/devotionals/casey-hurley-climbing-your-own-mount-sinai)  
+**Summary:** Life is a personal ascent; growth requires patience, endurance, and faith.  
+**Reflection:** I connected this to my own pursuit of certification and how spiritual effort must be as consistent as professional effort.
+
+**Scripture:** James 1:22 – "But be ye doers of the word, and not hearers only..."  
+**Reflection:** This verse prompted me to reexamine my commitment to service. I want to act more intentionally in both church and work service.
+
+### 🔜 Action Plan for Continued Spiritual Growth:
+- Schedule 10 minutes daily for scripture & journal
+- Attend the temple monthly
+- Join local mentoring/teaching opportunities in church IT or employment ministry

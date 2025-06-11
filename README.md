@@ -11,6 +11,7 @@ Welcome! I'm an IT professional with experience in technical support leadership,
 - [Refined MB.IO Project with Ethical Improvements](./project-mbio.md)
 - [Week 5 Reflection – Spiritual Integration & Portfolio Review](./spiritual-review.md)
 - [Week 5 – Usability Testing & Ethical Reflection](./usability-report.md)
+- [Week 5 – Spiritual Integration Reflection](./spiritual-integration-map.md)
 
 
 ---
@@ -28,3 +29,20 @@ During Week 4, several updates and refinements were made across this portfolio:
 These updates align with rubric expectations for spiritual-professional alignment, communication quality, and project depth.
 
 *Updated for Week 4 – IT 497 Capstone*
+
+## Week 6 Final Submission
+
+This portfolio reflects the integration of spiritual growth and technical leadership across all six weeks of the IT 497 Capstone experience.
+
+### ✅ Included:
+- [Guiding Principles](./guiding-principles.md)
+- [Spiritual Reflection & Devotionals](./spiritual-review.md)
+- [Professional Projects](./projects.md)
+- [Résumé](./resume.pdf)
+- [Ethical Dilemma](./ethical-dilemma.md)
+- [Usability Testing & Feedback](./usability-report.md)
+- [Spiritual Integration Reflection](./spiritual-integration-map.md)
+- [Final Growth Plan](./final-action-plan.md)
+- [Final Reflective Essay – Goal Alignment & Growth](./final-reflective-essay.md)
+- [Peer Review – J. Nuttall's Portfolio](./peer-review-nuttall.md)
+- [Peer Review – Chakanyuka Nyazenga's Portfolio](./peer-review-nyazenga.md)

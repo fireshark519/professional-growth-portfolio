@@ -50,3 +50,10 @@ This project reinforced the importance of combining **efficiency with ethical re
 ## Lessons Learned
 
 This project taught me that servant leadership means more than task completion—it means designing with responsibility, accountability, and ethical clarity. I will carry these principles forward in every technical role I take on.
+
+
+## **Tools & Technologies Used:**  
+- C# (.NET Core) for password tool  
+- SQL Server (T-SQL) for report logic  
+- GitHub for version control  
+- Jira for tracking and collaboration  

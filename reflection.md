@@ -29,3 +29,6 @@ This week's reflection focuses on Doctrine and Covenants 58:26–28 and how pers
 ## Final Reflection
 
 As I complete this capstone, I recognize how deeply my guiding principles—Gratitude, Integrity, and Service—have shaped my learning, leadership, and spiritual resilience. I see my work not only as technical progress but as a reflection of my discipleship.
+### Staying Grounded Spiritually at Work
+
+I’ve found that staying grounded doesn’t always require big gestures—it’s in the small habits. Saying a short prayer before high-pressure meetings, reflecting during breaks, or journaling one insight at the end of a workday helps me reset and remember who I serve. I also try to frame challenges as chances to grow Christlike attributes like patience, courage, or compassion.

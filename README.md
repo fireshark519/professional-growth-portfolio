@@ -46,3 +46,9 @@ This portfolio reflects the integration of spiritual growth and technical leader
 - [Final Reflective Essay – Goal Alignment & Growth](./final-reflective-essay.md)
 - [Peer Review – J. Nuttall's Portfolio](./peer-review-nuttall.md)
 - [Peer Review – Chakanyuka Nyazenga's Portfolio](./peer-review-nyazenga.md)
+
+
+### ✅ After feedback:
+
+I made changes to the [Refined MB.IO Project with Ethical Improvements](./project-mbio.md) file and also the [Week 5 Reflection – Spiritual Integration & Portfolio Review](./spiritual-review.md).
+I did not add any images for the projects I have worked on due to legal limitations (as any code generated is companies' Intelectual Property now).
